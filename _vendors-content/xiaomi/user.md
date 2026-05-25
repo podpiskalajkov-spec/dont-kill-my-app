@@ -1,8 +1,8 @@
-POCO M5 S---
+---
 manufacturer: 
     - xiaomi
 
-MIUI14---
+---
 
 ### App pinning / App locking
 
